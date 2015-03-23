@@ -1,0 +1,27 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mark.snidal@gmail.com",
+    "longName": "PebSec",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/pebsecure.png",
+                "menuIcon": true,
+                "name": "ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "PebSec",
+    "uuid": "33236c00-1df6-4708-b832-c95739f3b7de",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
